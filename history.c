@@ -2,7 +2,7 @@
 
 /**
  * get_history_file - gets the history file
- * @info: parameter truct
+ * @info: parameter struct
  *
  * Return: allocated string containg history file
  */
